@@ -7,9 +7,9 @@
 - 4. $ export PATH=“/Users/my_user/anaconda3/bin:$PATH”
 - 5. Edit file: /Users/my_user/anaconda3/bin/conda :
 
-Edit the first line like: #!/Users/my_user/anaconda3/bin/python
+     Edit the first line like: #!/Users/my_user/anaconda3/bin/python
 
-Save changes
+     Save changes
 - 6. $ /Users/my_user/anaconda3/bin/conda init bash
 
 You have to change my_user to your account name.
