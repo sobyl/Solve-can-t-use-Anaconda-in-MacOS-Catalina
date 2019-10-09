@@ -15,6 +15,6 @@
      Save changes
 - 6. $ /Users/my_user/anaconda3/bin/conda init bash
 
-- 7. (if needed) conda update --all
+- 7. (if needed) $ conda update --all
 
 You have to change my_user to your account name.
