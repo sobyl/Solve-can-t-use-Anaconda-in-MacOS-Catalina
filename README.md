@@ -1,4 +1,4 @@
-# solve can't use Anaconda in MacOS Catalina
+# Solve can't use Anaconda in MacOS Catalina
 
 - 1. Activate bash: $ chsh -s /bin/bash
 - 2. Reopen Terminal
