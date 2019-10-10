@@ -4,7 +4,7 @@
 - 2. Reopen Terminal
 - 3. Create directory anaconda3 in /User/my_user/
      
-     Move folder from ‘Users/Shared/Relocated\ Items/Security/anaconda3’ to ‘/User/my_user/anaconda3’: 
+     Move folder from ‘Users/Shared/Relocated\ Items/Security/anaconda3’ to ‘/Users/my_user/anaconda3’: 
      
      $ mv Users/Shared/Relocated\ Items/Security/anaconda3/* /User/my_user/anaconda3
 - 4. $ export PATH=“/Users/my_user/anaconda3/bin:$PATH”
